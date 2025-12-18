@@ -1,4 +1,4 @@
-# Codex2Proxy
+# CodexProxy
 
 Modern OpenAI compatible API powered by ChatGPT. This project converts Codex quota to OpenAI format API interface, allowing users to use API with just a Plus or Pro account without needing a developer platform account.
 
